@@ -38,7 +38,7 @@ fn find_top_carrying_elves(elves: Vec<Vec<i32>>, places: usize) -> Vec<i32> {
 }
 
 #[cfg(test)]
-mod day1_tests {
+mod day1 {
     use super::*;
     #[test]
     fn parse_example() {
