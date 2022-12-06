@@ -75,7 +75,7 @@ fn parse_and_solve_part2(input: &str) -> u32 {
 } 
 
 #[cfg(test)]
-mod day4 {
+mod day5 {
     use super::*;
     #[test]
     fn parse_example() {
